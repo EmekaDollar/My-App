@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-size: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+img {
+    width: 100%;
+}
+
+/* styling */
+
+main {
+    padding: 20px 0;
+}
+
+.Image_section {
+    margin-bottom: 10px;
+}
+h1 {
+    text-align: center;
+    
+}
+.description {
+    text-align: center;
+    padding-bottom: 7px;
+}
+.figure_wrap {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 205px;
+    border: 3px solid grey;
+}
+.figure_wrap img {
+    height: 200px;
+    width: 200px;
+}
+figcaption {
+    background-color: grey;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    font-size: 1.2em;
+}
+.achievements_section {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 550px;
+    margin-bottom: 10px;
+}
+.achievements_header {
+    margin-bottom: 7px;
+}
+.quote_section {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 550px;
+    margin-bottom: 10px;
+}
+.more_info_section {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 550px;
+}
+
